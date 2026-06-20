@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 I'm Khushi Wanve</h1>
+<h1 align="center">Hi 👋 I'm Khushii </h1>
 
 <h3 align="center">Software Developer | React | Java | Full Stack | Front End Design </h3>
 
