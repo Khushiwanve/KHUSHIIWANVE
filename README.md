@@ -29,4 +29,4 @@ Git • GitHub • VS Code • Vercel
 
 All of my projects are available at https://github.com/Khushiwanve
 
-How to reach me khushiwanve2004@gmail.com
+Open to opportunities khushiwanve2004@gmail.com
