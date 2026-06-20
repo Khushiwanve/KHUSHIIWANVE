@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Khushii </h1>
 
-<h3 align="center">Software Developer | React | Java | Full Stack | Front End Design </h3>
+<h3 align="center">Software Developer | Final Year MCA Student  | React | Java | Full Stack | Front End Design </h3>
 
 ---
 
